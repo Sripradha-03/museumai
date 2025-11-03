@@ -1,0 +1,19 @@
+{
+  "scan_artwork_title": "Scan an Artwork",
+  "scan_artwork_subtitle": "Position the artwork within the frame.",
+  "scan_artwork_button_label": "Scan artwork",
+  "camera_starting": "Starting camera...",
+  "camera_error": "Could not access the camera. Please check permissions and try again.",
+  "loading_text": "Identifying artwork...",
+  "scan_failed_title": "Scan Failed",
+  "scan_failed_message_generic": "An unexpected error occurred during identification.",
+  "scan_failed_message_not_identified": "Could not identify the artwork. Please try again with better lighting and a clearer angle.",
+  "try_again_button": "Try Again",
+  "exhibit_detail_back_button": "Go back to scanner",
+  "exhibit_detail_description_title": "Description",
+  "exhibit_detail_read_aloud_button": "Read Aloud",
+  "exhibit_detail_stop_button": "Stop",
+  "privacy_consent_text": "This app uses anonymous analytics to help the museum understand exhibit popularity. We do not collect any personal information.",
+  "privacy_consent_button": "I Understand",
+  "error_missing_exhibit": "Exhibit data is missing."
+}

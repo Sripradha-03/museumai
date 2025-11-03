@@ -1,0 +1,7 @@
+{
+  "name": "Museum Scan & Discover",
+  "description": "A web application for museum visitors to scan paintings or QR codes to get rich, interactive content about the exhibits. It features offline capabilities and anonymous analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
