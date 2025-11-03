@@ -138,7 +138,6 @@ const App: React.FC = () => {
   return (
     <main className="h-screen w-screen font-sans">
       {renderView()}
-      {/* FIX: Pass the handlePrivacyAccept function to the onAccept prop to resolve the missing property error. */}
       {!privacyConsent && <PrivacyConsent onAccept={handlePrivacyAccept} />}
     </main>
   );

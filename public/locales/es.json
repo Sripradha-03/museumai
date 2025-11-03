@@ -1,0 +1,19 @@
+{
+  "scan_artwork_title": "Escanear una Obra",
+  "scan_artwork_subtitle": "Coloque la obra de arte dentro del marco.",
+  "scan_artwork_button_label": "Escanear obra",
+  "camera_starting": "Iniciando cámara...",
+  "camera_error": "No se pudo acceder a la cámara. Por favor, verifique los permisos e intente de nuevo.",
+  "loading_text": "Identificando la obra...",
+  "scan_failed_title": "Escaneo Fallido",
+  "scan_failed_message_generic": "Ocurrió un error inesperado durante la identificación.",
+  "scan_failed_message_not_identified": "No se pudo identificar la obra. Inténtelo de nuevo con mejor iluminación y un ángulo más claro.",
+  "try_again_button": "Intentar de Nuevo",
+  "exhibit_detail_back_button": "Volver al escáner",
+  "exhibit_detail_description_title": "Descripción",
+  "exhibit_detail_read_aloud_button": "Leer en Voz Alta",
+  "exhibit_detail_stop_button": "Detener",
+  "privacy_consent_text": "Esta aplicación utiliza análisis anónimos para ayudar al museo a comprender la popularidad de las exhibiciones. No recopilamos ninguna información personal.",
+  "privacy_consent_button": "Entendido",
+  "error_missing_exhibit": "Faltan los datos de la exhibición."
+}
